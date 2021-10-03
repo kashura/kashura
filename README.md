@@ -1,4 +1,13 @@
-### Hi there 👋
+### Never stop learning
+
+Hey there 👋
+
+I'm an Agilist that believes in a *revolutionary* concept: hire smart people, get out of the way and do everything you can to allow them do great work. 
+
+- Core @ [The Odin Project](https://www.theodinproject.com/) - a wonderful community of learners.
+
+
+
 
 <!--
 **kashura/kashura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
