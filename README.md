@@ -6,7 +6,7 @@ I'm an Agilist that believes in a *revolutionary* concept: hire smart people, ge
 
 
 - :family: The older I get the more I appreciate my family. 
-- Core @ [The Odin Project](https://www.theodinproject.com/) - a wonderful community of learners.
+- :shipit: Core @ [The Odin Project](https://www.theodinproject.com/) - a wonderful community of learners.
 - :soccer: One Love. One United. Manchester United.
 - :dog: German Shepherd Ambassador and amateur trainer.
 - :microscope: Professional dabbler. Always learning, always trying something new.
