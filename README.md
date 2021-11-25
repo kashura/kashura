@@ -10,7 +10,7 @@ I'm an Agilist that believes in a *revolutionary* concept: hire smart people, ge
 - :soccer: One Love. One United. Manchester United.
 - :dog: German Shepherd Ambassador and amateur trainer.
 - :microscope: Professional dabbler. Always learning, always trying something new.
-- :books: My 2021 reading challenge: 16/18.
+- :books: My 2021 reading challenge: 20/18.
 
 
 <!--
