@@ -8,9 +8,8 @@ I'm an Agilist that believes in a *revolutionary* concept: hire smart people, ge
 - :family: The older I get the more I appreciate my family. 
 - :shipit: Core @ [The Odin Project](https://www.theodinproject.com/) - a wonderful community of learners.
 - :soccer: One Love. One United. Manchester United.
-- :dog: German Shepherd Ambassador and amateur trainer.
+- :dog: German Shepherd owner and advocate.
 - :microscope: Professional dabbler. Always learning, always trying something new.
-- :books: My 2021 reading challenge: 20/18.
 
 
 <!--
